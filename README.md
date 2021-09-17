@@ -17,12 +17,12 @@
   from sklearn.compose import ColumnTransformer
   from sklearn.pipeline import Pipeline
   from sklearn.impute import SimpleImputer, MissingIndicator
-  from category_encoders import LeaveOneOutEncoder    # library Catergory Encoders
+  from category_encoders import LeaveOneOutEncoder    # library Category Encoders
   ```
 
 - data_loading.py
   - works for train/test data
-  - spliting into X & Y
+  - splitting into X & Y
   - get names of features/labels
 
 - data_not_good.ipynb
@@ -45,7 +45,7 @@
 ---
 ## Project Outline
 
-### The Inital Work & New Topic
+### The Initial Work & New Topic
 
 Predict the probability of loan default given previous loan performance
 
