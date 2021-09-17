@@ -36,3 +36,8 @@
   - `pymannkendall.original_test`
     - slow for large data
     - need to be combined with random selection
+
+## Models
+
+- trees_trainer.py
+- trees_tuning.py
