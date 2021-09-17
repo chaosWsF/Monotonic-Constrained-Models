@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler, Normalizer, RobustScaler, Powe
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer, MissingIndicator
-from category_encoders import LeaveOneOutEncoder    # library Catergory Encoders
+from category_encoders import LeaveOneOutEncoder    # library Category Encoders
 
 
 data_root = './Data/'    # location of datasets
