@@ -39,5 +39,8 @@
 
 ## Models
 
+- configuration in monotonic_constraints.py
 - trees_trainer.py
 - trees_tuning.py
+- lattice_trainer.py
+- lattice_tuning.py
