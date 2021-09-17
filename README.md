@@ -27,3 +27,12 @@
 
 - data_not_good.ipynb
   - the adult dataset from [here](https://archive.ics.uci.edu/ml/datasets/census+income) has a bad format
+
+## Monotonicity
+
+- explore_monotonicity.ipynb
+  - `interpret` from interpretml/interpret
+  - `scipy.stats.spearmanr`
+  - `pymannkendall.original_test`
+    - slow for large data
+    - need to be combined with random selection
